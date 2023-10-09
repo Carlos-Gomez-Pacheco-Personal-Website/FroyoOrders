@@ -30,11 +30,3 @@ console.table(flavors);
 function getLength(flavors) {
   return flavors.length;
 }
-
-// /**
-//  * @param {string[]} flavors an array of integers
-//  * @returns {string} the sum of the flavors
-//  */
-// function getSum(flavors) {
-//   return flavors.reduce((a, b) => a + b);
-// }
