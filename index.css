@@ -1,0 +1,12 @@
+.center {
+  border: 5px solid;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+h1 {
+  text-align: center;
+}
+input::placeholder {
+  color: #b5cab6;
+}
